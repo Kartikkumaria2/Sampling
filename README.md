@@ -14,8 +14,8 @@ using the **SMOTE: Synthetic Minority Oversampling Technique**
 I have used 5 techniques for sampling which are:
 1. **Simple Random Sampling**
 2. **Systematic Sampling**
-3. **CLuster Sampling**
-4. **Startified Sampling**
+3. **Cluster Sampling**
+4. **Stratified Sampling**
 5. **Bootstrap**
 
 ## Classification Models:
