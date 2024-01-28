@@ -28,12 +28,15 @@ This is a binary classification task for which i have used 5 classification mode
 
 This is my Final result after applying all models on all types of sampling
 
-| Simple Random|   Systematic|    Cluster | Stratified  | Bootstrap |
-| SVM          |             94.270833|   88.020833 | 89.873418    |89.583333  91.145833 |
-| Logistic Regression|       94.270833|   89.062500  |89.873418   | 92.187500  93.750000 |
-| Decision Tree   |          93.229167|   89.583333  |89.873418    |95.833333  93.229167 |
-| Random Forest  |           97.395833|   95.833333  |94.303797    |98.437500  98.437500 |
-| Naive Bayes  |             85.937500 |  76.041667  |92.405063    |83.333333  82.812500 |
+| Classifier | Simple Random | Systematic | Cluster | Stratified | Bootstrap |
+|---|---|---|---|---|---|
+| SVM          | 94.270833 | 88.020833 | 89.873418 | 89.583333 | 91.145833 |
+| Logistic Regression | 94.270833 | 89.062500 | 89.873418 | 92.187500 | 93.750000 |
+| Decision Tree   | 93.229167 | 89.583333 | 89.873418 | 95.833333 | 93.229167 |
+| Random Forest  | 97.395833 | 95.833333 | 94.303797 | 98.437500 | 98.437500 |
+| Naive Bayes  | 85.937500 | 76.041667 | 92.405063 | 83.333333 | 82.812500 |
+
+
 ## The maximum value 98.4375 is found in  Random Forest Model and  Stratified  Sampling
 
 
