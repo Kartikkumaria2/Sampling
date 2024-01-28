@@ -27,6 +27,7 @@ This is a binary classification task for which i have used 5 classification mode
 5. **Decision Tree**
 
 This is my Final result after applying all models on all types of sampling
+
 | Simple Random|   Systematic|    Cluster | Stratified  | Bootstrap |
 | SVM          |             94.270833|   88.020833 | 89.873418    |89.583333  91.145833 |
 | Logistic Regression|       94.270833|   89.062500  |89.873418   | 92.187500  93.750000 |
